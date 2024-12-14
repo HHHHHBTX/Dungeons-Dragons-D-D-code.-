@@ -1,0 +1,24 @@
+{
+    "locations": {
+        "room_1": {
+            "description": "A dark dungeon entrance.",
+            "state": {
+                "door_locked": true,
+                "npc_alive": true
+            }
+        },
+        "room_2": {
+            "description": "A brightly lit hall with chandeliers.",
+            "state": {
+                "door_locked": false,
+                "npc_alive": true
+            }
+        }
+    },
+    "player": {
+        "hp": -3,
+        "xp": 60,
+        "inventory": [],
+        "attack": 5
+    }
+}
